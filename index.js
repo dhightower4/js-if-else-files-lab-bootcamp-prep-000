@@ -1,7 +1,7 @@
 var name = "Joe"
 var height = "74"
 
-id (name === Susan) {
+if (name === Susan) {
   console.log("The name is correct.")
 }
 
@@ -9,4 +9,3 @@ id (name === Susan) {
 // Don't worry about this
 module.exports = { name, height
 }
-
